@@ -1,2 +1,0 @@
-# LearnRepo
-Just for learning
