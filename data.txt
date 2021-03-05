@@ -1,8 +1,0 @@
-git in branch 2git 
-File 2
-new commitgit 
-
-file 5
-
-file 7
-Modified for branch three(3) 
